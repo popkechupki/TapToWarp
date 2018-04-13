@@ -1,0 +1,7 @@
+name: TapToWarp
+main: net.comorevi.nukkit.taptowarp.TapToWarp
+version: 1.0
+load: POSTWORLD
+author: popkechupki
+api: ["1.0.0"]
+description: 特定のブロックをタップしたときブロック設定された地点に移動
